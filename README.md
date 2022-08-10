@@ -5,6 +5,8 @@ A carefully curated list of open source content related to OpenTelemetry.
 
 <img width="686" alt="OTel_full" src="https://user-images.githubusercontent.com/52788043/179937064-9e3a201a-0a04-41c4-9079-0d64c9f39e8e.png">
 
+**Special Mention:** [Awesome Opentelemetry](https://github.com/magsther/awesome-opentelemetry) - A curated list of OpenTelemetry resources.
+
 
 ## What is OpenTelemetry?
 
@@ -552,10 +554,6 @@ Distributions and vendors who natively support OpenTelemetry in their commercial
 **[`^ back to top ^`](#contents)**
 
 ---
-
-
-
-**Special Mention:** [Awesome Opentelemetry](https://github.com/magsther/awesome-opentelemetry) - A curated list of OpenTelemetry resources.
 
 **Maintainer** - Priyansh Khodiyar ([@zriyansh](https://github.com/zriyansh)), also creator of [awesome-OS](https://github.com/zriyansh/awesome-os).
 
